@@ -1,2 +1,3 @@
-# python
-A template repo for creating Python projects
+# Polygon Area Calculator
+
+A polygon area calculator
